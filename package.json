@@ -1,0 +1,118 @@
+{
+  "icons": [
+    {
+      "image": "img/categ/Category_AC.png",
+      "title": "AC service"
+    },
+    {
+      "image": "img/categ/Category_Carpenter.png",
+      "title": "Carpenter service"
+    },
+    {
+      "image": "img/categ/Category_CCTV.png",
+      "title": "CCTV service"
+    },
+    {
+      "image": "img/categ/Category_Cleaning.png",
+      "title": "AC service"
+    },
+    {
+      "image": "img/categ/Category_Electrician.png",
+      "title": "Electrician"
+    },
+    {
+      "image": "img/categ/Category_Home_Appliance.png",
+      "title": "Electrician"
+    },
+    {
+      "image": "img/categ/Category_Packer&Mover.png",
+      "title": "Electrician"
+    },
+    {
+      "image": "img/categ/Category_Painter.png",
+      "title": "Electrician"
+    },
+    {
+      "image": "img/categ/Category_Pest_control.png",
+      "title": "Electrician"
+    },
+    {
+      "image": "img/categ/Category_Plumber.png",
+      "title": "Electrician"
+    },
+    {
+      "image": "img/categ/Category_Salon.png",
+      "title": "Electrician"
+    },
+    {
+      "image": "img/categ/Disinfection.png",
+      "title": "Electrician"
+    }
+  ],
+  "trendingServices": [
+    {
+      "image": "img/Rectangle 19.png",
+      "description": "Air-conditioner services"
+    },
+    {
+      "image": "img/Rectangle 20.png",
+      "description": "AC installation"
+    },
+    {
+      "image": "img/image 12.png",
+      "description": "Sofa cleaning service"
+    },
+    {
+      "image": "img/image 13.png",
+      "description": "Home Deep cleaning service"
+    }
+  ],
+  "sameServices": [
+    {
+      "image": "img/Carpenter-PNG-Image.png",
+      "description": "Carpentary services"
+    },
+    {
+      "image": "img/kisspng-dick-rosher-plumbing-inc-plumber-drain-leak-plumber-5abfda3c8ab124 1.png",
+      "description": "Plumbing services"
+    },
+    {
+      "image": "img/kisspng-technician-plumber-electrician-home-repair-mainten-5ae1b847d030b7 1.png",
+      "description": "Electrical services"
+    },
+    {
+      "image": "img/pngegg.png",
+      "description": "Painting services"
+    },
+    {
+      "image": "img/kisspng-insecticide-pesticide-herbicide-sprayer-5d0e1b4badf171.png",
+      "description": "Pest control services"
+    }
+  ],
+  "homeServices": [
+    {
+      "image": "img/Rectangle 1918.png",
+      "description": "Washing Machine repair"
+    },
+    {
+      "image": "img/Rectangle 1917.png",
+      "description": "Refrigerator Repair / Service"
+    },
+    {
+      "image": "img/Rectangle 1916.png",
+      "description": "Microwave Repair"
+    },
+    {
+      "image": "img/Rectangle 1919.png",
+      "description": "RO Service"
+    },
+    {
+      "image": "img/Rectangle 1922.png",
+      "description": "LED TV Repair"
+    },
+    {
+      "image": "img/split-ac-2-removebg-preview 1.png",
+      "description": "AC Services"
+    }
+  ]
+}
